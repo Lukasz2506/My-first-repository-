@@ -1,6 +1,6 @@
 # My-first-repository-
 My first repository on Github
-print(print('''
+print('''
 
 
     $$    $$  $$$$$$$$  $$        $$         $$$$
